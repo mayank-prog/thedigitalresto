@@ -1,0 +1,159 @@
+{
+    "restroId":1000,
+    "name": "Shree Shyam Bhojnalaya",
+    "phone": "+918791817767",
+    "whatapp": "+918791817767",
+    "location": "Delhi-Haridwar Rd, Rampur",
+    "location_url":"https://maps.app.goo.gl/R8d5rCtnhq6xkbmi7",
+    "service_type":"Basic",
+    "cuisine": ["🍀 Pure veg", "North Indian"],
+    "menu": [
+      {
+        "category": "Appetizers",
+        "items": [
+          {
+            "id": 1,
+            "name": "Garlic Bread",
+            "description":"A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrate-39.2 per 100 g, Sugar-0 per 100 g, Calories-336 K.cal] Nutritional information per 100g",
+              "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 30
+          },
+          {
+            "id": 2,
+            "name": "Bruschetta",
+            "image":"https://b.zmtcdn.com/data/dish_photos/406/cde170d1a6e61fc076eb744f1961e406.jpeg?fit=around|130:130&crop=130:130;*,*.jpg",
+            "price": 89
+          },{
+            "id": 9,
+            "name": "Garlic Bread",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/6bb/bcfdf6e4cbbe577228c90c88af0376bb_1566640127.jpg?",
+            "price": 99
+          },
+          {
+            "id": 10,
+            "name": "Bruschetta",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 79
+          }
+        ]
+      },
+      {
+        "category": "Main Course",
+        "items": [
+          {
+            "id": 3,
+            "name": "Chicken Alfredo Pasta",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 19
+          },
+          {
+            "id": 4,
+            "name": "Grilled Salmon",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "id": 5,
+            "name": "Chocolate Lava Cake",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 699
+          },
+          {
+            "id": 6,
+            "name": "Vanilla Ice Cream",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 499
+          },
+          {
+            "id": 7,
+            "name": "Chocolate Lava Cake",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 699
+          },
+          {
+            "id": 8,
+            "name": "Vanilla Ice Cream",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/af9/55ad1e22ccdf705b76c0e834f4b6caf9_1567925831.jpg",
+            "price": 499
+          }
+        ]
+      },
+      {
+        "category": "Appetizers4",
+        "items": [
+          {
+            "id": 11,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 12,
+            "name": "Bruschetta",
+            "price": 799
+          },{
+            "id": 13,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 14,
+            "name": "Bruschetta",
+            "price": 789
+          }
+        ]
+      },        
+      {
+        "category": "Appetizers3",
+        "items": [
+          {
+            "id": 15,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 16,
+            "name": "Bruschetta",
+            "price": 799
+          },{
+            "id": 17,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 18,
+            "name": "Bruschetta",
+            "price": 799
+          }
+        ]
+      }, 
+      {
+        "category": "Appetizers2",
+        "items": [
+          {
+            "id": 19,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 20,
+            "name": "Bruschetta",
+            "price": 99
+          },{
+            "id": 21,
+            "name": "Garlic Bread",
+            "price": 599
+          },
+          {
+            "id": 22,
+            "name": "Bruschetta",
+            "price": 99
+          }
+        ]
+       }               
+    ]
+}
